@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orbitos-pc.vercel.app/sitemap.xml
